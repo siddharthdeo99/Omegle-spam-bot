@@ -1,0 +1,5 @@
+* Install Selenium usinig :-
+    pip install selenium
+* Install Chrome driver (According to your google chrome version) - https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+* Some locating elements codes synax with example - https://selenium-python.readthedocs.io/locating-elements.html
