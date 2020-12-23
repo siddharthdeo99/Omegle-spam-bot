@@ -11,7 +11,7 @@ while True:
     cli.click()
     sleep(2)
     lol=driver.find_element_by_xpath("/html/body/div[5]/div/div/div[2]/table/tbody/tr/td[2]/div/textarea")
-    lol.send_keys('Want to learn hacking for free? Then check this out https://www.youtube.com/c/NoobHacker')#Type your text that you want to spam 
+    lol.send_keys('Want to learn hacking and coding for free? Then check this out https://youtube.com/c/SiddharthDeo')#Type your text that you want to spam 
     sleep(2)
     zaz=driver.find_element_by_xpath("/html/body/div[5]/div/div/div[2]/table/tbody/tr/td[3]/div/button")
     zaz.click()
